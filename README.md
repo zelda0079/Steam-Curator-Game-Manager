@@ -1,5 +1,8 @@
 ## English Version
 
+![sample](https://raw.githubusercontent.com/zelda0079/Steam-Curator-Game-Manager/refs/heads/main/sample.png)
+
+[My Curator](https://store.steampowered.com/curator/33923354)
 
 ### Overview
 
@@ -82,10 +85,9 @@ The filters apply dynamically and save your preferences locally. Hidden games he
 
 This script is provided as-is under the MIT License. Feel free to modify and share.
 
-
-
 ## 中文版本
 
+[我的鑑賞家](https://store.steampowered.com/curator/33923354)
 
 ### 概述
 
