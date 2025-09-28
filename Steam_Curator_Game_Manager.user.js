@@ -5,6 +5,9 @@
 // @description  Manages checkboxes for Steam Curator accepted games with toggle, review status, and import/export functionality, now with language switching.
 // @author       zelda & Grok3 & Gemini 2.5  Pro
 // @match        https://store.steampowered.com/curator/*/admin/*
+// @supportURL   https://github.com/zelda0079/Steam-Curator-Game-Manager/tree/main
+// @downloadURL  https://github.com/zelda0079/Steam-Curator-Game-Manager/raw/refs/heads/main/Steam_Curator_Game_Manager.user.js
+// @updateURL    https://github.com/zelda0079/Steam-Curator-Game-Manager/raw/refs/heads/main/Steam_Curator_Game_Manager.user.js
 // @grant        none
 // ==/UserScript==
 
