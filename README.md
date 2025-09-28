@@ -34,7 +34,7 @@ Show Unreviewed Only
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension (supports Chrome, Firefox, Edge, etc.).
 2. Go to [https://github.com/zelda0079/Steam-Curator-Game-Manager/raw/refs/heads/main/Steam_Curator_Game_Manager.user.js](https://github.com/zelda0079/Steam-Curator-Game-Manager/raw/refs/heads/main/Steam_Curator_Game_Manager.user.js) and install it.
-3. Navigate to your Steam Curator admin page: [https://store.steampowered.com/curator/YOUR_ID/admin/accepted](https://store.steampowered.com/curator/*/admin/accepted).
+3. Navigate to your Steam Curator admin page: [https://store.steampowered.com/curator/YOUR_Curator_ID/admin/accepted](https://store.steampowered.com/curator/*/admin/accepted).
 4. The script will automatically load and add controls at the top of the page.
 
 **Note**: The script only activates on the /admin/accepted page. It hides the default Steam filter and adds custom controls.
@@ -117,7 +117,7 @@ This script is provided as-is under the MIT License. Feel free to modify and sha
 
 1. 安裝 [Tampermonkey](https://www.tampermonkey.net/) 瀏覽器擴充套件（支援 Chrome、Firefox、Edge 等）。
 2. 去 [https://github.com/zelda0079/Steam-Curator-Game-Manager/raw/refs/heads/main/Steam_Curator_Game_Manager.user.js](https://github.com/zelda0079/Steam-Curator-Game-Manager/raw/refs/heads/main/Steam_Curator_Game_Manager.user.js) 並安裝。
-5. 前往您的 Steam 鑑賞家管理頁面：[https://store.steampowered.com/curator/YOUR_ID/admin/accepted](https://store.steampowered.com/curator/*/admin/accepted)。
+5. 前往您的 Steam 鑑賞家管理頁面：[https://store.steampowered.com/curator/你的鑑賞家ID/admin/accepted](https://store.steampowered.com/curator/*/admin/accepted)。
 6. 腳本會自動載入並在頁面頂端添加控制項。
 
 **注意**：腳本僅在 /admin/accepted 頁面啟動。它會隱藏 Steam 預設過濾器並添加自訂控制項。
